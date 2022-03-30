@@ -1,0 +1,7 @@
+.app-list{
+    background-color: #3d5a80;
+    color: azure;
+    margin-top: 30px;
+    box-shadow: 15px 15px 30px rgba(0, 0, 0, .15);
+    border-radius: 5px;
+}
